@@ -61,7 +61,7 @@ This platform implements the specific testing requirements defined in the UN AI 
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-org/unicc-ai-safety-platform.git
+    git clone https://github.com/RyanYang1390/unicc-ai-safety-platform.git
     cd unicc-ai-safety-platform
     ```
 
